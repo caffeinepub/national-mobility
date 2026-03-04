@@ -40,7 +40,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link to="/" className="flex items-center flex-shrink-0">
           <img
-            src="/assets/uploads/WhatsApp-Image-2026-02-24-at-10.28.14-AM-1.jpeg"
+            src="/assets/uploads/WhatsApp-Image-2026-02-24-at-10.28.14-AM-1-1.jpeg"
             alt="National Mobility"
             className="h-10 w-auto object-contain"
           />
