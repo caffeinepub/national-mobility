@@ -100,7 +100,7 @@ export default function FAQPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-3 justify-center">
               <a
-                href="https://wa.me/91XXXXXXXXXX"
+                href="https://wa.me/919082274858"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-teal inline-flex items-center justify-center gap-2 shadow-teal"

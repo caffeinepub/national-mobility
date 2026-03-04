@@ -179,7 +179,7 @@ export default function PartnerPage() {
                       24 hours on WhatsApp.
                     </p>
                     <a
-                      href="https://wa.me/91XXXXXXXXXX"
+                      href="https://wa.me/919082274858"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="btn-teal text-sm inline-flex items-center gap-2"

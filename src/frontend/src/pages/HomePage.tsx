@@ -125,7 +125,7 @@ export default function HomePage() {
                 <ArrowRight size={18} />
               </Link>
               <a
-                href="https://wa.me/91XXXXXXXXXX"
+                href="https://wa.me/919082274858"
                 target="_blank"
                 rel="noopener noreferrer"
                 data-ocid="home.hero.whatsapp.secondary_button"
@@ -262,7 +262,7 @@ export default function HomePage() {
             <motion.div variants={fadeInUp} className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-navy">
                 <img
-                  src="/assets/generated/ceo-imran.dim_400x400.jpg"
+                  src="/assets/uploads/Imran-Bhai-1.jpeg"
                   alt="Imran Hajwani, Founder & CEO"
                   className="w-full max-w-sm mx-auto object-cover"
                 />

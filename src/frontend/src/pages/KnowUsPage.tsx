@@ -21,14 +21,14 @@ const leadership = [
   {
     name: "Imran Hajwani",
     title: "Founder & CEO",
-    image: "/assets/generated/ceo-imran.dim_400x400.jpg",
+    image: "/assets/uploads/Imran-Bhai-1.jpeg",
     bio: "Visionary entrepreneur and mobility strategist with years of experience in fleet and travel operations. Leads company growth, partnerships, and strategic direction.",
     responsibilities: [],
   },
   {
     name: "Hasnain Khan",
     title: "COO — Fleet & Operations",
-    image: null,
+    image: "/assets/uploads/hasnain-bhai-2.jpeg",
     initials: "HK",
     bio: "Leads all operational aspects of the National Mobility fleet to ensure seamless driver experiences.",
     responsibilities: [
